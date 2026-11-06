@@ -241,4 +241,4 @@ Stray is provided as a **full free version** with all features and updates inclu
 Dive into the world of Stray today and start your unique adventure! Download now and experience the thrill of being a cat in a captivating cybernetic city.
 
 ---
-**Last updated:** 2026-11-06 00:47:59 UTC
+**Last updated:** 2026-11-06 07:41:58 UTC
